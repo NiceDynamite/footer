@@ -1,4 +1,4 @@
-html {
+/* html {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
     text-size-adjust: 100%;
@@ -18,7 +18,7 @@ body {
 ::before,
 ::after {
     box-sizing: inherit
-}
+} */
 
 
 a {
@@ -35,11 +35,12 @@ a:hover {
     outline: 0px;
 }
 
-.footer {
+/* .footer {
     bottom: 0;
+    left: 0;
     position: absolute;
     width: 100%
-}
+} */
 
 .primary-footer {
     display: flex;
