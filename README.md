@@ -1,6 +1,6 @@
 # Footer Component
 
-## Using my header Component
+## Using my Footer Component
 **npm install**
 
 ## Running React App
